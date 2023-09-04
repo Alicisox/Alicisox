@@ -1,5 +1,5 @@
 - Hi, I’m Champ (Natthapong Chantaklad), a Highly-motivated postgraduate master of Artificial Intelligence student who is proficient in Python and Java OOP programming and information systems.
-- Looking for an internship in Melborne, Australia during the next semester break.
+- Looking for an internship in Melbourne, Australia during the next semester break.
 
 - Passionate about understanding human behavior in different situations and solve people's problems by using data-driven analysis and prediction. Eager to learn new things and seek out new challenges.
 
