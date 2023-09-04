@@ -1,8 +1,9 @@
-- Hi, I’m Champ (Natthapong Chantaklad), a Highly-motivated postgraduate master of Artificial Intelligence student who is proficient in Python and Java OOP programming and information systems. Looking for internship in Melborne, Australia during the next semester break.
+- Hi, I’m Champ (Natthapong Chantaklad), a Highly-motivated postgraduate master of Artificial Intelligence student who is proficient in Python and Java OOP programming and information systems.
+- Looking for internship in Melborne, Australia during the next semester break.
 
-Passionate about understanding human behavior in different situations and solve people's problems by using data-driven analysis and prediction. Eager to learn new things and seek out new challenges.
+- Passionate about understanding human behavior in different situations and solve people's problems by using data-driven analysis and prediction. Eager to learn new things and seek out new challenges.
 
-The latest project is Airbnb analysis which gives an insight into Airbnb data. The project finds insight information on the Airbnb rental business by using the machine learning method. For instance, the factors that affect Airbnb customer satisfaction. Currently, working on a time-series data analysis project to obtain an insight into sale forecasting.
+- The latest project is Airbnb analysis which gives an insight into Airbnb data. The project finds insight information on the Airbnb rental business by using the machine learning method. For instance, the factors that affect Airbnb customer satisfaction. Currently, working on a time-series data analysis project to obtain an insight into sale forecasting.
 
 
 
